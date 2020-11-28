@@ -5,7 +5,7 @@ It can be used in many ways and in this particular case, I used it as a converte
 <br/>
 
 <img src="https://raw.githubusercontent.com/josegduarte/TK_excelimport/main/layout.PNG" width="230" height="300">
-<img src="https://raw.githubusercontent.com/josegduarte/TK_excelimport/main/excel_template.PNG" width="400" height="150">
+<img src="https://raw.githubusercontent.com/josegduarte/TK_excelimport/main/excel_template.PNG" width="350" height="150">
 
 
 
