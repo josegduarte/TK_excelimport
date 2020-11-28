@@ -8,4 +8,4 @@ It can be used in many ways and in this particular case, I used it as a converte
 
 
 
-<img src="https://raw.githubusercontent.com/josegduarte/TK_excelimport/main/layout.PNG" width="100" height="100">
+<img src="https://raw.githubusercontent.com/josegduarte/TK_excelimport/main/layout.PNG" width="300" height="300">
